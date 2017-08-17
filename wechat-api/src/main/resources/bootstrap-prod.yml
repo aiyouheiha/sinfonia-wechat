@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      uri: http://config.sinfonia.heiha.com:20088/
+      profile: prod
+      label: master
